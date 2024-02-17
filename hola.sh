@@ -6,5 +6,3 @@ mkdir nuevo
 cd nuevo/
 touch omar
 echo "$fecha Mi primera chamba" > omar
-
-
