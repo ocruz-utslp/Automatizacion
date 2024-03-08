@@ -21,3 +21,5 @@ do
 	chmod 755 /home/$user/.bash_profile
 	
 done
+
+
